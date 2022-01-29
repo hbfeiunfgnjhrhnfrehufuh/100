@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    color: goldenrod;
+}
+footer{
+    background-color:silver;
+    border: black;
+    }
+nav{
+    margin: 40px;
+    padding: 20px;
+    border:  2px solid rgb(33, 27, 100);
+    color: blue;
+    border-radius: 20px;
+    background-color: midnightblue;
+}
+nav a{
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+    color: yellowgreen;
+}
+.popo{
+    background-color: aqua;
+}
